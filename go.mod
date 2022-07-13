@@ -23,7 +23,7 @@ require (
 	github.com/gobuffalo/httptest v1.0.4
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/golang/snappy v0.0.3 // indirect
-	github.com/google/go-cmp v0.5.7
+	github.com/google/go-cmp v0.5.8
 	github.com/google/uuid v1.1.2
 	github.com/gorilla/mux v1.6.2
 	github.com/hashicorp/go-multierror v1.0.0
